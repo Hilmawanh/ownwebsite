@@ -573,11 +573,11 @@ margin-left: var(--mb-1);
 
 }
 
-@media screen and (min-width : 365px){
+@media screen and (max-width : 365px){
     .about__img{
         display: flex;
         justify-content: center!important;
-        margin-left: 100px;
+        /* margin-left: 100px; */
         padding-top: 1rem; 
         width: 100px; 
         height: 100px;

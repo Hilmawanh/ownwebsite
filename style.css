@@ -253,7 +253,6 @@ img{
     overflow: hidden;
 }
 
-
 .about__img img{
     width: 100px;
 }
@@ -571,4 +570,31 @@ margin-left: var(--mb-1);
         /* line-height: .9; */
     }
 
+}
+
+@media screen and (min-width : 372px ){
+    .about__img{
+        display: flex;
+        justify-content: center!important;
+        margin-left: 126px;
+        padding-top: 1rem; 
+        width: 120px; 
+        height: 120px;
+        background-color: var(--first-color);
+        border-radius: 50%;
+        overflow: hidden;
+    }
+}
+@media screen and (min-width : 366px ){
+    .about__img{
+        display: flex;
+        justify-content: center!important;
+        margin-left: 115px;
+        padding-top: 1rem; 
+        width: 120px; 
+        height: 120px;
+        background-color: var(--first-color);
+        border-radius: 50%;
+        overflow: hidden;
+    }
 }

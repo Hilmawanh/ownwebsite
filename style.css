@@ -244,7 +244,7 @@ img{
 .about__img{
     display: flex;
     justify-content: center!important;
-    /* margin-left: 127px; */
+    margin-left: 137px;
     padding-top: 1rem; 
     width: 120px; 
     height: 120px;
@@ -573,7 +573,7 @@ margin-left: var(--mb-1);
 
 }
 
-/* @media screen and (max-width : 365px){
+@media screen and (max-width : 360px){
     .about__img{
         display: flex;
         justify-content: center!important;
@@ -585,4 +585,4 @@ margin-left: var(--mb-1);
         border-radius: 50%;
         overflow: hidden;
     }
-} */
+}

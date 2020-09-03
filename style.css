@@ -585,7 +585,7 @@ margin-left: var(--mb-1);
         overflow: hidden;
     }
 }
-@media screen and (min-width : 366px ){
+@media screen and (min-width : 365px ){
     .about__img{
         display: flex;
         justify-content: center!important;

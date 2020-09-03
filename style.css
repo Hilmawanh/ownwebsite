@@ -577,11 +577,11 @@ margin-left: var(--mb-1);
     .about__img{
         display: flex;
         justify-content: center!important;
-        margin-left: 120px;
+        margin-left: 121px;
         padding-top: 1rem; 
         width: 100px; 
         height: 100px;
-        background-color: black;
+        background-color: red;
         border-radius: 50%;
         overflow: hidden;
     }
